@@ -23,6 +23,7 @@ namespace MathApplication
             Console.WriteLine(power);
 
             Console.ReadLine();
+            // adding a comment
         }
     }
 }
